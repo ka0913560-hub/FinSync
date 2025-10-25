@@ -20,7 +20,7 @@
 |------------|-----------|-----------|
 | ![Dashboard](FinSync/screenshots/dashboard.jpeg) | ![Insights](FinSync/screenshots/insights.jpeg) | ![Reminders](FinSync/screenshots/reminders.jpeg) |
 
-> *(Add your screenshots in a `/screenshots` folder — they’ll automatically appear here.)*
+
 
 ---
 
